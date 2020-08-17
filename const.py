@@ -1,0 +1,3 @@
+TOKEN = '766368518:AAGI_uXg-pd2czUrrahq34NRYuiyqNglS2U'
+ID="236203791"
+asd="asd"
