@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T15:55:20.875Z" agent="5.0 (Windows)" version="13.8.8" etag="ccyTzOi8bH1ryVv6vops" type="github"><diagram id="JYWXIUCriwbb62C83Q4D">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-30T15:59:27.769Z" agent="5.0 (Windows)" etag="acsQ-AcLM2s2W5mbX3s7" version="13.8.8" type="github">
+  <diagram id="JYWXIUCriwbb62C83Q4D" name="Page-1">
+    <mxGraphModel dx="834" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MvKwM_BDhgsVR8Gbkyro-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MvKwM_BDhgsVR8Gbkyro-1" target="MvKwM_BDhgsVR8Gbkyro-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvKwM_BDhgsVR8Gbkyro-1" value="&lt;div align=&quot;left&quot;&gt;Instagram Story&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MvKwM_BDhgsVR8Gbkyro-4" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="MvKwM_BDhgsVR8Gbkyro-2" target="MvKwM_BDhgsVR8Gbkyro-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="220" />
+              <mxPoint x="85" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvKwM_BDhgsVR8Gbkyro-5" value="Проверяет подписан ли пользователь" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MvKwM_BDhgsVR8Gbkyro-4">
+          <mxGeometry x="0.0701" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvKwM_BDhgsVR8Gbkyro-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="MvKwM_BDhgsVR8Gbkyro-2" target="MvKwM_BDhgsVR8Gbkyro-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvKwM_BDhgsVR8Gbkyro-2" value="Сервис" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MvKwM_BDhgsVR8Gbkyro-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="MvKwM_BDhgsVR8Gbkyro-7" target="MvKwM_BDhgsVR8Gbkyro-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvKwM_BDhgsVR8Gbkyro-7" value="&lt;div&gt;telegram&lt;/div&gt;&lt;div&gt;bot&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MvKwM_BDhgsVR8Gbkyro-8" value="telegram channel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvKwM_BDhgsVR8Gbkyro-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.587;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MvKwM_BDhgsVR8Gbkyro-7" target="MvKwM_BDhgsVR8Gbkyro-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="357.5244827586207" y="230.03253918495298" as="targetPoint" />
+            <mxPoint x="622.49" y="210.02" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="622" y="290" />
+              <mxPoint x="622" y="170" />
+              <mxPoint x="358" y="170" />
+              <mxPoint x="358" y="240" />
+              <mxPoint x="360" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvKwM_BDhgsVR8Gbkyro-12" value="Проверяет подписан ли пользователь" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MvKwM_BDhgsVR8Gbkyro-11">
+          <mxGeometry x="0.0701" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
